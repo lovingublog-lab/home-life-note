@@ -5,7 +5,7 @@ pubDate: 2026-09-28
 category: "수납"
 tags: ["수납", "정리", "집안관리", "좁은집"]
 featured: true
-image: "/home-life-note/images/small-home-storage-first-checks.svg"
+image: "/images/small-home-storage-first-checks.svg"
 imageAlt: "작은 집의 수납공간을 정리하는 선반과 수납상자 일러스트"
 draft: false
 ---

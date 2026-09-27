@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lovingublog-lab.github.io/home-life-note/sitemap.xml
+Sitemap: https://homelifenote.com/sitemap.xml
