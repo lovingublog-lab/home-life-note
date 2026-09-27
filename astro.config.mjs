@@ -1,2 +1,7 @@
 import { defineConfig } from 'astro/config';
-export default defineConfig({site:'https://lovingublog-lab.github.io',base:'/home-life-note',trailingSlash:'always'});
+
+export default defineConfig({
+  site: 'https://homelifenote.com',
+  base: '/',
+  trailingSlash: 'always',
+});
