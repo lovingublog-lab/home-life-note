@@ -5,7 +5,7 @@ pubDate: 2026-09-28
 category: "청소"
 tags: ["청소루틴","집안관리","생활팁"]
 featured: true
-draft: false
+draft: true
 ---
 집안 청소는 오래 몰아서 하는 것보다 **짧고 반복 가능한 기준을 만드는 것**이 유지하기 쉽습니다.
 
