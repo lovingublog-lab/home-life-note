@@ -1,4 +1,4 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';import ArticleCard from '../components/ArticleCard.astro';import {getCollection} from 'astro:content';const posts=(await getCollection('blog',({data})=>!data.draft)).sort((a,b)=>b.data.pubDate.valueOf()-a.data.pubDate.valueOf());
+import BaseLayout from '../layouts/BaseLayout.astro';import ArticleCard from '../components/ArticleCard.astro';import {getCollection} from 'astro:content';const now=new Date();const posts=(await getCollection('blog',({data})=>!data.draft&&data.pubDate<=now)).sort((a,b)=>b.data.pubDate.valueOf()-a.data.pubDate.valueOf());
 ---
 <BaseLayout title="살림생활노트" description="청소, 수납, 가전 관리, 생활비 절약 등 집안생활을 더 편하게 만드는 실용 정보"><section class="hero"><div class="container"><div class="eyebrow">Home & Living Guide</div><h1>집안일은 덜 힘들게,<br/>생활은 더 알뜰하게.</h1><p>청소, 수납, 가전 관리, 생활비 절약 등 집안생활을 더 편하게 만드는 실용 정보를 실제로 따라 할 수 있는 방법 중심으로 정리합니다.</p></div></section><section class="section"><div class="container"><div class="eyebrow">Latest</div><h2>최근 글</h2><div class="grid">{posts.slice(0,6).map(p=><ArticleCard post={p}/>)}</div></div></section></BaseLayout>
