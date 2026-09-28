@@ -91,4 +91,4 @@ draft: false
 
 습기 관리와 함께 주방 가전의 위생 관리도 점검하려면 [냉장고 냄새 청소하는 법](/blog/refrigerator-odor-cleaning/)을 이어서 볼 수 있습니다.
 
-실내 습도와 곰팡이 예방 기준은 [미국 환경보호청(EPA)의 곰팡이·습기 가이드](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)를 참고했습니다. EPA는 실내 상대습도를 60% 미만, 가능하면 30~50% 범위로 관리하는 것을 권고합니다.
+실내 습기와 결로·곰팡이 관리는 [대한민국 정책브리핑의 실내 공기질 관리 안내](https://www.korea.kr/briefing/policyBriefingView.do?newsId=148909591)를 참고했습니다. 해당 안내는 실내 습도를 적절히 유지하고 주기적으로 환기하며, 누수·결로를 함께 점검하는 것이 중요하다고 설명합니다.
