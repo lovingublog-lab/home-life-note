@@ -1,5 +1,5 @@
 ---
-title: "냉장고 냄새 없애는 청소 순서: 음식 냄새 원인부터 찾기"
+title: "냉장고 냄새가 계속 날 때 원인 찾고 청소하는 순서"
 description: "냉장고 냄새가 반복될 때 음식, 국물 자국, 배수·고무패킹 주변을 어떻게 확인하고 청소해야 하는지 안전한 순서로 정리합니다."
 pubDate: 2026-09-28T11:28:00+09:00
 category: "청소"
@@ -98,6 +98,6 @@ draft: false
 
 ## 관련 글과 참고 자료
 
-집안의 눅눅함과 냄새 원인을 함께 관리하려면 [옷장 습기 줄이는 법](/blog/closet-humidity-management/)도 참고할 수 있습니다.
+집안의 눅눅함과 냄새 원인을 함께 관리하려면 [옷장 습기 줄이는 방법](/blog/closet-humidity-management/)도 참고할 수 있습니다.
 
 냉장고 청소와 위생 관리는 [식품의약품안전처의 냉장고 청소 안내](https://www.korea.kr/news/cardnewsView.do?newsId=148876861)와 [식품안전나라의 냉장고 안전 10계명](https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&menu_grp=MENU_NEW01&menu_no=3120&ntctxt_no=21709)을 참고했습니다.
