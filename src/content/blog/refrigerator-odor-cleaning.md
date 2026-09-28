@@ -94,3 +94,10 @@ draft: false
 냉장고 냄새 청소의 핵심은 강한 향으로 덮는 것이 아니라 **원인을 좁혀 제거하는 것**입니다. 음식 확인 → 용기 겉면 정리 → 선반과 서랍 청소 → 고무패킹과 틈 확인 → 완전 건조 순서로 진행하면 대부분의 생활 냄새를 관리하기 쉬워집니다.
 
 이후에는 주 1회 정도 오래된 음식만 빠르게 확인하고, 국물이나 소스를 흘렸을 때 바로 닦는 습관이 큰 청소를 줄이는 가장 현실적인 방법입니다.
+
+
+## 관련 글과 참고 자료
+
+집안의 눅눅함과 냄새 원인을 함께 관리하려면 [옷장 습기 줄이는 법](/blog/closet-humidity-management/)도 참고할 수 있습니다.
+
+냉장고 내부 청소와 냄새 제거 방법은 [미국 농무부 식품안전검사국(USDA FSIS)의 냉장고·냉동고 냄새 제거 안내](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/removing-odors-refrigerators-and)를 참고했습니다.
