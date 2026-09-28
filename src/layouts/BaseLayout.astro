@@ -36,4 +36,15 @@ const jsonLd=article?{'@context':'https://schema.org','@graph':[
 <header><div class="container nav"><a class="brand" href={base}>살림생활노트</a><nav><a href={base}>홈</a><a href={`${base}articles/`}>전체 글</a><a href={`${base}about/`}>소개</a><a href={`${base}contact/`}>문의</a><a href={`${base}search/`}>검색</a></nav></div></header>
 <main><slot/></main>
 <footer><div class="container foot"><strong>살림생활노트</strong><span>청소, 수납, 가전 관리, 생활비 절약 등 집안생활을 더 편하게 만드는 실용 정보</span><div><a href={`${base}privacy/`}>개인정보처리방침</a> · <a href={`${base}contact/`}>문의</a> · <a href={`${base}rss.xml`}>RSS</a></div></div></footer>
+  <script is:inline>
+    document.querySelectorAll('a[href]').forEach((link) => {
+      try {
+        const url = new URL(link.getAttribute('href'), window.location.href);
+        if ((url.protocol === 'http:' || url.protocol === 'https:') && url.origin !== window.location.origin) {
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+        }
+      } catch {}
+    });
+  </script>
 </body></html>
