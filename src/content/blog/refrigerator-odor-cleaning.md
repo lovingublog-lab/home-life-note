@@ -100,4 +100,4 @@ draft: false
 
 집안의 눅눅함과 냄새 원인을 함께 관리하려면 [옷장 습기 줄이는 법](/blog/closet-humidity-management/)도 참고할 수 있습니다.
 
-냉장고 내부 청소와 냄새 제거 방법은 [미국 농무부 식품안전검사국(USDA FSIS)의 냉장고·냉동고 냄새 제거 안내](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/removing-odors-refrigerators-and)를 참고했습니다.
+냉장고 청소와 위생 관리는 [식품의약품안전처의 냉장고 청소 안내](https://www.korea.kr/news/cardnewsView.do?newsId=148876861)와 [식품안전나라의 냉장고 안전 10계명](https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&menu_grp=MENU_NEW01&menu_no=3120&ntctxt_no=21709)을 참고했습니다.
