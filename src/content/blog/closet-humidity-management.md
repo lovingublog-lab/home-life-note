@@ -89,6 +89,8 @@ draft: false
 
 ## 관련 글과 참고 자료
 
+현관 수납공간도 함께 눅눅하다면 [신발장 냄새와 습기를 줄이는 관리 순서](/blog/shoe-cabinet-humidity-odor/)에서 젖은 신발과 수납 밀도부터 점검할 수 있습니다.
+
 습기 관리와 함께 주방 가전의 위생 관리도 점검하려면 [냉장고 냄새 청소 순서](/blog/refrigerator-odor-cleaning/)을 이어서 볼 수 있습니다.
 
 실내 습기와 결로·곰팡이 관리는 [대한민국 정책브리핑의 실내 공기질 관리 안내](https://www.korea.kr/briefing/policyBriefingView.do?newsId=148909591)를 참고했습니다. 해당 안내는 실내 습도를 적절히 유지하고 주기적으로 환기하며, 누수·결로를 함께 점검하는 것이 중요하다고 설명합니다.
