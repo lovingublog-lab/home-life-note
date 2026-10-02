@@ -96,8 +96,7 @@ draft: false
 이후에는 주 1회 정도 오래된 음식만 빠르게 확인하고, 국물이나 소스를 흘렸을 때 바로 닦는 습관이 큰 청소를 줄이는 가장 현실적인 방법입니다.
 
 
-## 관련 글과 참고 자료
-
-집안의 눅눅함과 냄새 원인을 함께 관리하려면 [옷장 습기 줄이는 방법](/blog/closet-humidity-management/)도 참고할 수 있습니다.
+## 참고한 공식 자료
 
 냉장고 청소와 위생 관리는 [식품의약품안전처의 냉장고 청소 안내](https://www.korea.kr/news/cardnewsView.do?newsId=148876861)와 [식품안전나라의 냉장고 안전 10계명](https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&menu_grp=MENU_NEW01&menu_no=3120&ntctxt_no=21709)을 참고했습니다.
+
